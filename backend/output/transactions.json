@@ -1,0 +1,38 @@
+[
+  {
+    "amount": 249.0,
+    "currency": "INR",
+    "merchant": "Zomato",
+    "transaction_type": "expense",
+    "payment_mode": "UPI",
+    "category": "Food",
+    "raw_text": "Rs. 249 paid to Zomato using PhonePe UPI."
+  },
+  {
+    "amount": 1500.0,
+    "currency": "INR",
+    "merchant": "Amazon Pay",
+    "transaction_type": "expense",
+    "payment_mode": null,
+    "category": "Shopping",
+    "raw_text": "HDFC Bank: Rs. 1,500 debited from your account for AMAZON PAY."
+  },
+  {
+    "amount": 320.0,
+    "currency": "INR",
+    "merchant": "Uber",
+    "transaction_type": "expense",
+    "payment_mode": "UPI",
+    "category": "Travel",
+    "raw_text": "You paid \u20b9320 to Uber via UPI."
+  },
+  {
+    "amount": 5000.0,
+    "currency": "INR",
+    "merchant": "Your Hdfc Bank Account",
+    "transaction_type": "income",
+    "payment_mode": null,
+    "category": "Uncategorized",
+    "raw_text": "Rs. 5000 credited to your HDFC Bank account."
+  }
+]
